@@ -38,4 +38,8 @@
   * To become a hacker, you must be knowledgeable about digital forensics investigation.
   * To become a hacker, you must have critical thinking and problem-solving skills.
   * **Security Based Certifications Gaining**: There is a lot of certification knowledge that you need to acquire to become a hacker, which is explained here.
-  * **Practical Experience Gainings**: 
+  * To become a hacker, you must be know about ethical hacking and security+.
+  * To become a hacker, you must be know about different certified ethical hacking, advanced hacking and different security tools.
+  * **Practical Experience Gainings**: Here is an explanation of how to train to become a hacker.
+  * A hacker should create different hacking environments and networks in security lab setup and conduct different hacking exercises in them.
+  * A hacker should be trained in different hacking environments and bug bounding platforms available on the Internet. 
